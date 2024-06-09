@@ -1,0 +1,16 @@
+
+.tag_holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust height as needed */
+    margin: 0;
+    text-align: center;
+  }
+  
+  /* Ensures that elements are not rotated */
+  .tag_holder  {
+    transform: rotate(0deg);
+  }
+  
+
